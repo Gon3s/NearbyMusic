@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2057246758",
+    "project_id": "nearbymusic-5c055",
+    "storage_bucket": "nearbymusic-5c055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2057246758:android:1ce8c1ce1304e3a453aee7",
+        "android_client_info": {
+          "package_name": "com.gones.nearbymusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2057246758-19d51v75sdpv7st146fpohdgq889j1uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjkUMq5Jla3Cs0Oqkx2fX4TfimTjEkL_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2057246758-19d51v75sdpv7st146fpohdgq889j1uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
